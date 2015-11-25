@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>BEST DIET</title>
+	<link rel="stylesheet" href="../公共样式/fuye.css" />
+	<style>
+		.main{height: 772px;background-color: white;border-bottom: 1px #ccc solid;}
+			.main-inner{width: 960px;margin: 0 auto;}
+				.main-left{width: 249px;height: 729px;float: left;margin-top: 40px;}
+					.main-left h3{height: 34px;line-height: 34px;font-size: 20px;font-weight: normal;}
+					.main-left p{height: 69px;width: 249px;font-size: 14px;color: #ccc;text-align: justify;margin-top: 15px;}
+						.main-left p span{color: #cc3300;}
+					.main-left a{width: 103px;height: 25px;display: block;background-image: url(images/ml-a-bgi_22.gif);margin-top: 21px;margin-left: 9px;text-align: center;line-height: 25px;font-size: 14px;color: white;text-decoration: none;}
+					.main-left img{margin-left: 9px;margin-top: 30px;}
+					.main-left ul{margin-top: 26px;}
+					.main-left li{width: 240px;height: 17px;color: #ccc;background-image: url(images/ml-lsi_45.gif);margin-left: 9px;background-position: left center;background-repeat: no-repeat;padding-left: 15px;list-style: none;margin-bottom: 14px;}
+				.main-right{width: 635px;height: 729px;float: left;margin-left: 75px;margin-top: 40px;}
+					.main-right h3{height: 34px;font-size: 26px;line-height: 34px;font-family: arial;font-weight: normal;}
+					.mr-top{width: 635px;height: 159px;margin-top: 15px;}
+						.mr-top img{float: left;}
+						.mr-top p{float: left;margin-left: 26px;width: 384px;height: 159px;font-size: 14px;color: #ccc;text-align: justify;}
+						.mr-top span{color: #cc3366;}
+					.mr-center{height: 120px;width: 635px;margin-top: 23px;margin-bottom: 19px;}
+						.mr-center ul{float: left;}
+								.ul-right{margin-left: 52px;}
+						.mr-center li{height: 28px;line-height: 22px;font-size: 18px;list-style: none;background-image: url(images/ml-lsi_45.gif);padding-left: 21px;background-repeat: no-repeat;background-position: 5px center;color: #ccc;width: 251px;}
+					.mr-bottom{width: 635px;height: 218px;margin-top: 8px;}
+						.mr-bottom p{width: 635px;height: 218px;color: #ccc;}
+						.mr-bottom span{color: #cc3366;}
+					.main-right a{display: block;width: 103px;height: 25px;line-height: 25px;text-align: center;font-size: 12px;color: white;margin-left: 5px;margin-top: 17px;background-image: url(images/ml-a-bgi_22.gif);text-decoration: none;}
+		
+	</style>
+</head>
+<body>
+	<div class="top">
+		<div class="top-inner">
+			<ul>
+				<li><a href="file:///E:/%E7%AC%AC%E5%98%89%E5%AD%A6%E7%A4%BE/%E3%80%902015.10.17%E3%80%91/%E6%B0%B4%E6%9E%9C/%E7%AC%AC%E4%B8%80%E9%A1%B5/%E9%A6%96%E9%A1%B5.html">HOME PAGE</a></li>
+				<li><a href="#">NUTRITION</a></li>
+				<li><a href="#">BEST DIETS</a></li>
+				<li><a href="file:///E:/%E7%AC%AC%E5%98%89%E5%AD%A6%E7%A4%BE/%E3%80%902015.10.17%E3%80%91/%E6%B0%B4%E6%9E%9C/PROGRAM/PROGRAM.html">PROGRAMS</a></li>
+				<li class="li5"><a href="file:///E:/%E7%AC%AC%E5%98%89%E5%AD%A6%E7%A4%BE/%E3%80%902015.10.17%E3%80%91/%E6%B0%B4%E6%9E%9C/CONTACTS/CONTACTS.html">CONTACTS</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="header">
+		<div class="header-inner">
+			<div class="logo"></div>
+			<div class="search"></div>
+		</div>
+	</div>
+	<div class="mid"></div>
+	<div class="main">
+		<div class="main-inner">
+			<div class="main-left">
+				<h3>Your Diet Tips</h3>
+				<p><span>dfd fkl dagu ijadn mfiad</span> jf fkl dagu ijadn mfiad jf fkl dagu ijadn mfiad jf fkl dagu ijadn mfiad jf</p>
+				<a href="">Read More</a>
+				<p><span>dfd fkl dagu ijadn mfiad</span> jf fkl dagu ijadn mfiad jf fkl dagu ijadn mfiad jf fkl dagu ijadn mfiad jf</p>
+				<a href="">Read More</a>
+				<img src="images/ml-img_39.gif" alt="" />
+				<ul>
+					<li>dag adga dgadf dsaf</li>
+					<li>dag adga dgadf dsaf</li>
+					<li>dag adga dgadf dsaf</li>
+					<li>dag adga dgadf dsaf</li>
+					<li>dag adga dgadf dsaf</li>
+					<li>dag adga dgadf dsaf</li>
+					<li>dag adga dgadf dsaf</li>
+				</ul>
+			</div>
+			<div class="main-right">
+				<h3>Todays Diet Recipes</h3>
+				<div class="mr-top">
+					<img src="images/mrt-img_23.gif" alt="" />
+					<p><span>ea ognd lagjo iadg nald ian gd ea ognd lagjo iadg nald ian gd ea ognd lagjo iadg nald ian gd</span><br /> lagjo iadg nald ian gd ea ognd lagjo iadg nald ian gd ea ognd lagjo iadg nald ian gd ea ognd lagjo iadg nald ian gd ea ognd lagjo iadg nald ian gd ea ognd lagjo iadg nald ian gd ea ognd lagjo iadg nald ian gd ea ognd lagjo iadg nald ian gd ea ognd lagjo iadg nald ian gd ea ognd lagjo iadg nald ian gd</p>
+				</div>
+				<div class="mr-center">
+					<ul>
+						<li>eraef egafa gadfa eraef</li>
+						<li>eraef egafa gadfa eraef</li>
+						<li>eraef egafa gadfa eraef</li>
+						<li>eraef egafa gadfa eraef</li>
+					</ul>
+					<ul class="ul-right">
+						<li>eraef egafa gadfa eraef</li>
+						<li>eraef egafa gadfa eraef</li>
+						<li>eraef egafa gadfa eraef</li>
+						<li>eraef egafa gadfa eraef</li>
+					</ul>
+				</div>
+				<h3>Weight Loss Challenge</h3>
+				<div class="mr-bottom">
+					<p><span>wwoh gadga adgadg adgadogj eg adgadjgo</span> gadga adgadg adgadogj eg adgadjgo gadga adgadg adgadogj eg adgadjgo gadga adgadg adgadogj eg adgadjgo gadga adgadg adgadogj eg adgadjgo gadga adgadg adgadogj eg adgadjgo gadga adgadg adgadogj eg adgadjgo <br /> gadga adgadg adgadogj eg adgadjgo gadga adgadg adgadogj eg adgadjgo gadga adgadg adgadogj eg adgadjgo gadga adgadg adgadogj eg adgadjgo gadga adgadg adgadogj eg adgadjgo</p>
+				</div>
+				<a href="#">Read More</a>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="footer-inner">
+			<img src="images/footer-img_44.gif" alt="" />
+		</div>
+	</div>
+</body>
+</html>
