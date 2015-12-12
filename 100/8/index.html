@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+	*{margin: 0;padding: 0;}
+.clear{clear: both;}
+.first,.second{
+	font-size: 20px;
+	line-height: 120px;
+	text-align: center;
+	color: #fff;
+}
+@media (min-width: 500px) and (max-width: 700px){
+	.first,.second{float: left;width: 50%;}
+	.third{width: 100%;}
+}
+@media (min-width: 700px){
+	.top{float: left;
+		width: 66%;}
+	.third{float: left;
+		width: 33%;}
+	.first,.second{float: left;width: 50%;}
+}
+.first{
+	background-color: red;
+	height: 120px;
+	margin-bottom: 30px;
+}
+.second{
+	background-color: blue;
+	height: 120px;
+	margin-bottom: 30px;
+}
+.third{
+	background-color: black;
+	height: 120px;
+}
+	</style>
+</head>
+<body>
+	<div class="top">
+		<div class="first">1</div>
+		<div class="second">2</div>
+		<div class="clear"></div>
+	</div>
+	<div class="third">3</div>
+
+</body>
+</html>
