@@ -22,6 +22,9 @@
 		display: block;
 		float: left;
 	}
+	.color{
+		background-color: red;
+	}
 	img{
 		margin: 0 auto;
 		display: block;
@@ -31,40 +34,24 @@
 </head>
 <body>
 	<!-- <div class="box"></div> -->
-	<img src="images/(WNT]6W@CBD4TZA7PX)AY%C.gif" id="img-1" alt="">
+	<img src="images/1.gif" id="img-1" alt="">
 	<div class="button">
-		<input type="button" id="btn-1" value="飞奔">
-		<input type="button" id="btn-2" value="惆怅">
-		<input type="button" id="btn-3" value="点头">
+		<input type="button" class="btn" value="飞奔">
+		<input type="button" class="btn" value="惆怅">
+		<input type="button" class="btn" value="点头">
 		<div class="clear"></div>
 	</div>
 	
 	<script>
 		
-			$("#btn-1").click(function(){
-				
-				$("#img-1").attr(
-					"src","images/PY3S3[QU8WJQ}S~K4FVD6%2.gif");
-				$("#btn-1").css("background-color","red");
-				$("#btn-2").css("background-color","white");
-				$("#btn-3").css("background-color","white");
+			$(".btn").click(function(){
+				var index = $(this).index()
+				var src = "images/" + (index+1) + ".gif"
+				$(this).attr("src",src)
+				$(this).addClass("color")
+				$(this).siblings().removeClass("color")
 			});
-			$("#btn-2").click(function(){
-				
-				$("#img-1").attr(
-					"src","images/3G_N`H5X}L[~SL7DSG1QU@4.gif");
-				$("#btn-2").css("background-color","red");
-				$("#btn-1").css("background-color","white");
-				$("#btn-3").css("background-color","white");
-			});
-			$("#btn-3").click(function(){
-				
-				$("#img-1").attr(
-					"src","images/FP@}@5{2M7LY3%0$]H01K89.gif");
-				$("#btn-3").css("background-color","red");
-				$("#btn-2").css("background-color","white");
-				$("#btn-1").css("background-color","white");
-			});
+			
 		
 	</script>
 </body>
