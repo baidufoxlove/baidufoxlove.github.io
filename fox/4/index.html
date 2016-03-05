@@ -8,15 +8,29 @@
 	.box{
 		width: 100px;
 		height: 100px;
+		background-color: red;
 	}
 	</style>
-	<script>
-		$(function(){
-			$(".box").css("background-color","green");
-		})
-	</script>
+	
 </head>
 <body>
-	<div class="box"></div>
+	<!-- <div class="box"></div> -->
+	<img src="images/(WNT]6W@CBD4TZA7PX)AY%C.gif" id="img-1" alt="">
+	
+	<input type="button" id="btn" value="变图">
+
+	<script>
+		
+			$("#btn").click(function(){
+				// $(".box").css(
+				// 		"width":"200px";
+				// 		"height":"200px"
+				// 	);
+				$("#img-1").attr(
+					"src","images/3G_N`H5X}L[~SL7DSG1QU@4.gif"
+				);
+			});
+		
+	</script>
 </body>
 </html>
