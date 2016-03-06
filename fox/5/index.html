@@ -68,11 +68,11 @@
 	</ul>
 	<script>
 		$(".ul-2").hide()
-		$("a").mouseover(function(){
-			$(this).siblings(".ul-2").slideDown(500)
+		$("a").mouseenter(function(){
+			$(this).siblings(".ul-2").stop().slideDown(500)
 		})
-		$("a").mouseout(function(){
-			$(this).siblings(".ul-2").slideUp(500)
+		$("a").mouseleave(function(){
+			$(this).siblings(".ul-2").stop().slideUp(500)
 		})
 	</script>
 </body>
